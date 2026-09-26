@@ -55,7 +55,7 @@ DisasterReady/
 
 🚀 Getting Started
 
-1. Clone the repository
+1. Demo Link
 
 Live link https://disaster-prep-edu-five.vercel.app/
 
