@@ -57,7 +57,7 @@ DisasterReady/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/disaster-ready.git
+Live link https://disaster-prep-edu-five.vercel.app/
 
 2. Open the project
 
